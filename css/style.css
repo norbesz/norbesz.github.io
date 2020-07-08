@@ -1,0 +1,21 @@
+html {background-color: rgb(255, 208, 0);}
+.colorDiv {margin:0 10% 0 10%;padding: 0 20px; display: inline-block;width: 80%; height: 100%;
+background-color: white;}
+@font-face {font-family: "OswaldLI"; src: url("/css/fonts/Oswald-LightItalic.ttf"); font-weight: 500;}
+@font-face {font-family: "Yellowtail"; src: url("/css/fonts/Yellowtail-Regular.ttf"); font-weight: 500;}
+h1 {color: brown; font-family:"OswaldLI"; text-transform: uppercase;text-align: center;}
+h2 {color: brown; font-family: "OswaldLI"; text-transform: uppercase;}
+th {color: #28A745; font-family: "Yellowtail"; font-size: 30px;}
+tr {font-family: Arial, Helvetica, sans-serif;}
+.linka {display: inline-block; 
+    width: 256px; height: 20px;
+    background:brown; 
+    margin:0 2px;
+text-align: center;}
+.linka:hover {box-shadow: 2px 2px 5px rgb(75, 21, 21);}
+a {color: rgb(255, 208, 0);}
+.trow {padding: 200px;}
+.akcioColor {margin: 1%; display: inline-block; width: 95%; height: 10%;
+    background-color: rgb(248, 212, 212); box-shadow: 3px 3px 3px grey;}
+.imgAkcio {width: 30%; position: static; left: 500px; bottom: 100px;}
+.paka {width: 60%;}
